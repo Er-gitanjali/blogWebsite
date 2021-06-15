@@ -1,0 +1,24 @@
+.contact-content{
+height:300px;
+height:100vh;
+ background-color:rgb(208,208,243);  
+margin-top:32px;
+padding:9px;
+z-index:-1;
+overflow:hidden;
+}
+.form-input {
+padding:0px 5px;
+padding-top:3px;
+font-size:16px;
+border: 2px solid black;
+border-radius:4px;
+margin:0 13px;
+}
+.form-box input , textarea{
+width:44vw;
+padding:10px 6px;
+margin:7px 0;
+border: 2px solid var(--main-bg-color):
+border-radius:5px;
+}
